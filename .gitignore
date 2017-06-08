@@ -3,6 +3,8 @@ DerivedDataCache
 Intermediate
 Saved
 UWP
+IOS
+**/FileOpenOrder
 Android_ETC1
 WindowsNoEditor
 *.VC.db
