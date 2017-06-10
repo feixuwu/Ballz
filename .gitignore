@@ -3,7 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 UWP
-IOS
+*.ipa
 **/.DS_Store
 **/FileOpenOrder
 Android_ETC1
