@@ -17,11 +17,7 @@
 		{
 			"Name": "VungleIOS",
 			"Type": "Developer",
-      "LoadingPhase": "Default",
-      "WhitelistPlatforms" :
-			[
-				"IOS"
-			]
+      "LoadingPhase": "Default"
 		}
 	]
 }
