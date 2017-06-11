@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 UWP
+.vs
 *.ipa
 **/.DS_Store
 **/FileOpenOrder
